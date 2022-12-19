@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">AndroidSpringCoursework</string>
+    <string name="menu_level_one">Easy</string>
+    <string name="menu_level_two">Medium</string>
+    <string name="menu_level_three">Hard</string>
+    <string name="menu_level_custom">Custom</string>
+    <string name="menu_title">Space Shooter</string>
+    <string name="high_score">High Score</string>
+    <string name="high_score_menu_title">High Scores</string>
+    <string name="create_level_menu_title">Create Level</string>
+    <string name="enemy_easy">Easy</string>
+    <string name="enemy_medium">Medium</string>
+    <string name="enemy_hard">Hard</string>
+    <string name="custom_play">Play</string>
+    <string name="save">Save</string>
+    <string name="load">Load</string>
+    <string name="name_prompt">Enter Name</string>
+    <string name="last_score">Last Score</string>
+    <string name="options">Select a Level or Option!</string>
+    <string name="update_scores">Refresh Scores</string>
+    <string name="refresh">Refresh</string>
+    <string name="save_scores">Save Score</string>
+</resources>
